@@ -900,7 +900,8 @@ fieldset[disabled] .btn-theme {
 }
 .full-width {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 .fweight-300 {
   font-weight: 300 !important;
